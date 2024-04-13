@@ -23,6 +23,7 @@ The Maze was written was written in C ussing SDL2 library. Deveploment was perfo
 </ul>
 <h1>Compilation</h1>
 <p>$ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
-</p>
+
 <h1>Flowchart</h1>
-![68747470733a2f2f692e696d6775722e636f6d2f74304d784e6e692e706e67](https://github.com/owen20108/3D_MAZE/assets/94856344/af8c413c-19a4-458e-a9c9-c409635ee211)
+<img src="![x](https://github.com/owen20108/3D_MAZE/assets/94856344/5b717c84-13d6-4c50-be81-84c4118a8aca)
+ style="max-width: 100%;">
