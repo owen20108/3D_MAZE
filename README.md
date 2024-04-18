@@ -29,4 +29,4 @@ The Maze was written was written in C ussing SDL2 library. Deveploment was perfo
 
 <img src="![x](https://github.com/owen20108/3D_MAZE/assets/94856344/5b717c84-13d6-4c50-be81-84c4118a8aca)
  >
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ve4QJboaMT0?si=EU4zBm4ZMwNhra3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ve4QJboaMT0?si=EU4zBm4ZMwNhra3K" ></iframe>
